@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TebakNumber</string>
+
+    <!-- In app -->
+    <string name="text_soal">Tebak angka berapa</string>
+    <string name="text_answer">89</string>
+    <string name="text_tekanAnswer">Tekan untuk menjawab</string>
+    <string name="text_hasil">Hasil</string>
+
+
+
+
+</resources>
